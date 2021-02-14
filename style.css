@@ -108,7 +108,7 @@ button:active {
 }
 
 /* Media Query */
-@media screen and (max-width: 320px) {
+@media (max-width: 320px) {
   .calculator {
     width: 95%;
   }
