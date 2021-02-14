@@ -61,7 +61,7 @@ button {
 .operator {
   background: #fbd786;
   color: black;
-  text-align: center;
+  font-size: 25px;
 }
 
 .clear {
